@@ -1,4 +1,6 @@
-/processed
 .venv
 .dvc
 .vscode
+__pycache__/
+mlflow.db
+mlruns/
